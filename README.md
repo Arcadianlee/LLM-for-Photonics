@@ -39,9 +39,9 @@ Meep FDTD was used as the environment for simulating nanophotonics.
     ├── ...
     ├── optim_PhC.py            # main scripts
     │   ├── envs                # RL environment scripts
-    │   ├── src                 # source scripts for lasers
+    │   ├── src                 # source scripts written w/ meep (e.g. meep1.py)
     ├── README.md               # Readme file
-    ├── Chat1                  # Conversation sequences with gpt
+    ├── Chat1_concept.txt                  # Conversation sequences with gpt
     └── ...
 
 

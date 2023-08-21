@@ -3,6 +3,7 @@ Leveraging LLMs to design and optimize nanophotonics
 
 This is the repository for our paper: LLM helps design and optimize photonic crystal
 surface emitting lasers, by Renjie Li et al. available at https://hal.science/hal-04175312
+[design+pipeline.pdf](https://github.com/Arcadianlee/LLM-for-Photonics/files/12390367/design%2Bpipeline.pdf)
 
 ## Abstract:<br/>
 Conventional design and optimization of Photonic Crystal Surface Emitting Lasers

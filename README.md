@@ -1,8 +1,8 @@
 ## LLM-for-Chip
 
-LLM4Chip-R1: Leveraging LLM agents and Reinforcement Learning to design and optimize semiconductor devices and chips, such as semiconductor lasers.
+Leveraging LLM agents and Reinforcement Learning to design and optimize semiconductor devices and chips, such as semiconductor lasers.
 
-This is the code repo for our paper "LLM4Chip-R1: End-to-End Design and Generation of Semiconductor Chips with LLMs Boosted by Reward-Driven Reinforcement Learning" currently under review.
+This is the code repo for our paper "LLM4Chip-R1: LLM-Guided Construction of Inverse-Design Workflows for PCSEL Optimization" currently under review.
 
 <img width="780" height="341" alt="Screenshot 2025-12-13 at 20 56 22" src="https://github.com/user-attachments/assets/c26eee3b-074b-4434-9e93-0623659ed281" />
 <img width="823" height="485" alt="Screenshot 2025-12-13 at 20 56 33" src="https://github.com/user-attachments/assets/b3620ab3-bfbc-4620-abd8-f1f3165c2c89" />
